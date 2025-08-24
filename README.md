@@ -6,7 +6,7 @@
 
 ###
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td>
         <p align="left">
@@ -22,7 +22,7 @@
     </tr>
   </table>
 </div>
-###
+
 
 <h2 align="center">⚙️Tech Stack & Tools</h2>
 
