@@ -30,13 +30,8 @@
 
 ###
 
-<img align="left" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJrbG9ib2I2c3dmNnU4NDNlMW43eXNuMGJobG9ocDlvZXdtbGFkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=UmaliPrinceGenel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
-
