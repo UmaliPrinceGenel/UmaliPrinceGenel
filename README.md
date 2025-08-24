@@ -5,13 +5,23 @@
 <h2 align="left">🔥About Me</h2>
 
 ###
-
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDhqNnIzb29ldzdjZnJkNm05cDlpaXUwbGRrMXdscG51bWZkaGg4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif"  />
-
-###
-
-<p align="left">- 🎓 3rd-year BS Computer Science student at Laguna State Polytechnic University - Sta. Cruz Campus  <br>- 🎮 In my free time, I enjoy playing games and chess  <br>- 🌱 Passionate about building projects that solve real-world problems  <br>- 📫 Reach me at genelumali@gmail.com</p>
-
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <p align="left">
+          🎓 3rd-year BS Computer Science student at Laguna State Polytechnic University - Sta. Cruz Campus <br><br>
+          🎮 In my free time, I enjoy playing games and chess <br><br>
+          🌱 Passionate about building projects that solve real-world problems <br><br>
+          📫 Reach me at <b>genelumali@gmail.com</b>
+        </p>
+      </td>
+      <td>
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDhqNnIzb29ldzdjZnJkNm05cDlpaXUwbGRrMXdscG51bWZkaGg4YyZlcD12MV9faW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/7NoNw4pMNTvgc/giphy.gif" height="150" />
+      </td>
+    </tr>
+  </table>
+</div>
 ###
 
 <h2 align="center">⚙️Tech Stack & Tools</h2>
