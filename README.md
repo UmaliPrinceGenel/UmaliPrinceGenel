@@ -10,7 +10,7 @@
     <tr>
       <td>
         <p align="left">
-          🎓 3rd-year BS Computer Science student at Laguna State Polytechnic University - Sta. Cruz Campus <br><br>
+          🎓 4th-year BS Computer Science student at Laguna State Polytechnic University - Sta. Cruz Campus <br><br>
           🎮 In my free time, I enjoy playing games and chess <br><br>
           🌱 Passionate about building projects that solve real-world problems <br><br>
           📫 Reach me at <b>genelumali@gmail.com</b>
